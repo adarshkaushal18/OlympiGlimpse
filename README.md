@@ -2,6 +2,8 @@
 
 **OlympiGlimpse** is a dynamic web application designed to provide a comprehensive and interactive overview of historical Olympic data. Using powerful data visualization techniques, the app offers insights into various aspects of the Olympic Games, including country performance, athlete statistics, and more.
 
+Website: https://olympics-web-app.onrender.com/
+
 ## Features
 
 - **Country-wise Performance**: Visualize the performance of countries across different Olympic Games, including medal counts and rankings.
@@ -39,4 +41,4 @@ Once the app is running, you can explore various sections using the sidebar menu
 
 ## Acknowledgements
 
-- The data used in this project was sourced from [Kaggle]([https://www.kaggle.com](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results))
+- The data used in this project was sourced from [Kaggle]([https://www.kaggle.com]/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results)
